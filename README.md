@@ -25,3 +25,9 @@ Also, comments should be controlled to not have any racial or stereotyped slang.
 
 
 # User Incentive
+Unknown so far.
+
+
+# Database of Restaurants
+I may try to use Yelp's API to get some data going at the beginning.
+
